@@ -63,7 +63,7 @@ You can reach me at (CONTACT INFO). Thank you.
 
 ##### Code for Boston Organizers
 
-- Harlan Weber hweber@codeforamerica.org
+- Harlan Weber harlan@codeforboston.org
 - Matt Zagaja mattz@codeforboston.org
 - Annie LaCourt annie@codeforboston.org
 - Brian Sanders brian@codeforboston.org
