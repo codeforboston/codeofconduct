@@ -63,14 +63,13 @@ You can reach me at (CONTACT INFO). Thank you.
 
 ##### Code for Boston Organizers
 
-- Harlan Weber hweber@codeforamerica.org
-- Matt Cloyd mcloyd@codeforamerica.org
-- Lyre Calliope lyre@codeforboston.org
-- Ethan Bagley ethan@codeforboston.org
-- Kristen Weber kristen@codeforboston.org
-- Becky Donner becky@codeforboston.org
-- Isaac Chansky isaac@codeforboston.org
-- Maria Grinko maria@codeforboston.org
+- Harlan Weber harlan@codeforboston.org
+- Matt Zagaja mattz@codeforboston.org
+- Annie LaCourt annie@codeforboston.org
+- Brian Sanders brian@codeforboston.org
+- Thad Kerosky thadk@codeforboston.org
+- Will Pfeffer will@codeforboston.org
+- Mike Yavorsky mike@codeforboston.org
 
 ##### Local Resources
 
